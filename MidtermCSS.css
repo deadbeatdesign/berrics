@@ -1,0 +1,136 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin-top:30px;
+	background-image:url(images/enjoi1.png)
+
+}
+
+#Header {
+	font-size:36px;
+	margin:100px auto 0 auto;
+	width:1080px;
+	margin-top: 35px;
+	background:#FFF
+	border:1px solid #000;
+	
+}
+
+#mainnav ul {
+	padding:0 0 1px 0;
+	margin:1px 0 0 0;
+	margin-top: -35px;
+	list-style-type:none;
+	border-bottom:1px solid gray;
+	line-height: 28px;
+	background-color:#FFF
+}
+
+#mainnav ul li {
+	display:inline;
+}
+
+#mainnav ul li a {
+	padding: 6px 44px;
+}
+
+#mainnav ul li a:hover {
+	background-color:#9FF
+}
+
+
+#slideshow {
+	margin-left: 15px;
+	margin-top: 35px;
+	margin-bottom: 20px;
+	padding: 1em;
+	max-width: 46em;
+}
+
+#image1 {
+	margin-left: 15px;
+	margin-top: -30px;
+	margin-bottom: 20px;
+	padding: 1em;
+	max-width: 46em;
+}
+
+#image2 {
+	margin-left: 15px;
+	margin-top: -35px;
+	margin-bottom: 20px;
+	padding: 1em;
+	max-width: 46em;
+	
+}
+
+#email {
+	margin-left: 15px;
+	margin-top: 55px;
+	margin-bottom: 20px;
+	padding: 1em;
+	max-width: 46em;
+	
+}
+	
+#image3 {
+	margin-left: 362px;
+	margin-top: -456px;
+	margin-bottom: 20px;
+	padding: 1em;
+	max-width: 46em;
+	
+	
+}
+
+#image4 {
+	margin-left: 710px;
+	margin-top: -456px;
+	margin-bottom: 20px;
+	padding: 1em;
+	max-width: 46em;
+	
+	
+}
+
+#image5 {
+	margin-left: 15px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	padding: 1em;
+	max-width: 46em;
+	
+	
+}
+
+#image6 {
+	margin-left: 15px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	padding: 1em;
+	max-width: 46em;
+	
+	
+}
+
+#image7 {
+	margin-left: 15px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	padding: 1em;
+	max-width: 46em;
+	
+	
+}
+
+#container {
+	
+	margin: 0 auto;
+	width: 1050px;
+	height: 3200px;
+	background-color:#FFF
+}
+
